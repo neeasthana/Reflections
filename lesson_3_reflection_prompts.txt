@@ -6,3 +6,6 @@ So that there are no merge conflicts
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks if I was on the Github website and the user does not approve of my changes and I wanna edit it myself. Clones if I want to start a new one on my local repository. Branches if im making a new feature. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can totally view the changes from your local current copy and DIFF the differences between them bro. So yah thats cool and shit. You can merge on your own without creating a conflict. 
